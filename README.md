@@ -9,4 +9,6 @@ I've been tasked to create an analysis that consisted of:</h3>
 - Name of the best selling product
 <br>
 - Highest selling salesman and the one from the month before.
+<br>
+- And analysis for sales, products, customers and employees.
 
