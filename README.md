@@ -12,3 +12,4 @@ I've been tasked to create an analysis that consisted of:</h3>
 <br>
 - And analysis for sales, products, customers and employees.
 
+<h3> This was done using SSMS <h3>
