@@ -1,6 +1,6 @@
 # SQL-Project
 <h3>Using Dataset that includes information about a customers and employees of companies,
-I've been tasked to create an analysis that consisted of:<h3>
+I've been tasked to create an analysis that consisted of:</h3>
 <br>
 - Top 3 customers by sales
 <br>
