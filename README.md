@@ -1,9 +1,12 @@
 # SQL-Project
-Using Dataset that includes information about a company from excel file, and extracted the relevant data
-What has been extracted:
-**- Changing the date format
-**- Separating the property address into individual columns (address,city and state)
-****- Separating the owner address into individual columns (address,city and state)
-**- Removing duplicates records
-**- Deleting unused columns**
-**The result is a clean, usable dataset that is now can be easily analyzed.****
+<h3>Using Dataset that includes information about a customers and employees of companies,
+I've been tasked to create an analysis that consisted of:<h3>
+<br>
+**- Top 3 customers by sales
+<br>
+**- Top 3 orders with the highest value each month
+<br>
+**- Name of the best selling product
+<br>
+**- Highest selling salesman and the one from the month before.
+
